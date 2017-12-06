@@ -16,7 +16,7 @@ const SpreadsheetChecksum = rawInput => {
     let rowMin = Rows[i][0], // Smallest is first element
         rowMax = 0;
 
-    for(let i2 = 0, len = Rows[i2].length; i2 < len; i2++) {
+    for(let i2 = 0, len2 = Rows[i2].length; i2 < len2; i2++) {
       const currentCell = Rows[i][i2];
 
       if(currentCell < rowMin) {
