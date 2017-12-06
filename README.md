@@ -1,2 +1,5 @@
-# advent-of-code-2017
-Solutions to Advent of Code 2017
+# Advent of Code
+
+My solutions to [Advent of Code](https://adventofcode.com/)
+
+(Uploaded day AFTER, no cheating :rage:)
